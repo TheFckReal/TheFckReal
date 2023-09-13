@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ASP.NET Framework. A little bit PostgreSQL
 - 💬 Ask me about .NET, ASP.NET
 - 📫 How to reach me: Telegram: @ThxMan, VK: 
-- 😄 Pronouns: Better just The Real
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Actually I am learning 1C language...
 
 # My achievments
