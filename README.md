@@ -6,12 +6,11 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 #
-- 🔭 I’m currently working on ASP.NET Core 3 project from Adam Freeman book
-- 🌱 I’m currently learning ASP.NET Framework. A little bit PostgreSQL
-- 💬 Ask me about .NET, ASP.NET
-- 📫 How to reach me: Telegram: @ThxMan, VK: 
+- 🌱 I’m currently learning Machine Learning.
+- 💬 Ask me about .NET, ASP.NET Core, PostgreSQL
+- 📫 How to reach me: Telegram: @ThxMan
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Actually I am learning 1C language...
+- ⚡ Fun fact: Actually I know 1C language...
 
 # My achievments
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=TheFckReal&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
